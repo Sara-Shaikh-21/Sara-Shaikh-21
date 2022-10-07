@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara Saeed Shaikh</h1>
-<h3 align="center">A passionate aspiring software developer.</h3>
-
+<h3 align="center">I am a Computer Engineering Student<br>
+-Always improving my knowledge related to Technical and Non-Technical Domains.<br>
+-An aspiring student waiting for opportunities to grab!<br>
+-An excellent collaborator!
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-shaikh-21&label=Profile%20views&color=0e75b6&style=flat" alt="sara-shaikh-21" /> </p>
 
 - 🔭 I’m currently working on improving **Data Structures and Algorithms**
