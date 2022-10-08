@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sara-Shaikh-21/Sara-Shaikh-21](https://github.com/Sara-Shaikh-21/Sara-Shaikh-21)
+- 👨‍💻 All of my projects are available at [https://github.com/Sara-Shaikh-21/Sara-Shaikh-21](https://github.com/Sara-Shaikh-21/)
 
 - 📝 I regularly write articles on [https://medium.com/@sarassk21](https://medium.com/@sarassk21)
 
