@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on improving **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **NLP and problem solving skills**
+- 🌱 I’m currently working on **A spring boot project.**
 
 - 👯 I’m looking to collaborate on **React projects**
 
